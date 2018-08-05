@@ -1,0 +1,76 @@
+@import url('base.css');
+.homepage{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: #eeeeee;
+}
+.portrait img{
+	display:block;
+	width: 2.3rem;
+	height: 2.3rem;
+	margin: 1.45rem auto 0rem;
+}
+.Tips_g{
+	display:block;
+	width:4.2rem;
+	height: 0.26rem;
+	margin:0.12rem auto; 
+	font-family: "苹方";
+	font-size: 0.25rem;
+	color: #2fbd2c;
+	font-weight: bolder;
+	text-align: center;
+}
+.Tips_gr{
+	display:block;
+	width:5rem;
+	height: 0.21rem;
+	margin:0.12rem auto; 
+	font-family: "苹方";
+	font-size: 0.0rem;
+	color: #ababab;
+	font-weight: bolder;
+	text-align: center;
+}
+.in{
+	width: 5.5rem;
+	height: 0.45rem;
+	margin:2rem auto 0rem;
+}
+.point_y{
+	width: 0.18rem;
+	height: 0.12rem;
+	float:left;
+	margin-right: 0.25rem;
+}
+.Inputbox input{
+	width: 4.94rem;
+	height: 0.36rem;
+	border:none;
+	background:#eeeeee;
+}
+.line{
+	width: 5.5rem;
+	height: 0.04rem;
+	color:#dadada;
+}
+.bin{
+	width: 4.8rem;
+	height: 0.7rem;
+	border-radius: 0.35rem;
+	background: #dadada;
+	margin: 2.96rem auto 0rem;
+}
+.start{
+	display: block;
+	width: 4.8rem;
+	height: 0.7rem;
+	border-radius: 0.35rem;
+	background: #dadada;
+	border:none;
+	font-family: "苹方";
+	color:#adadad;
+}

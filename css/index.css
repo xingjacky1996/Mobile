@@ -1,0 +1,56 @@
+@import url('base.css');
+.homepage{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: #eeeeee;
+}
+.Headportrait img{
+	width: 2.3rem;
+	height: 2.3rem;
+	display:block;
+	margin: 1.45rem auto 0rem;
+}
+.title{
+	display:block;
+	width:1.8rem;
+	height: 0.3rem;
+	margin:0.12rem auto; 
+	font-family: San Francisco Display;
+	font-size: 0.12rem;
+	color: #000000;
+	font-weight: bolder;
+	text-align: center;
+}
+.dl{
+	width: 4.8rem;
+	height: 1.68rem;
+	margin: 5rem auto 0rem;
+}
+.Manual{
+	display: block;
+	width: 4.8rem;
+	height: 0.78rem;
+	border-radius: 0.39rem;
+	background:-webkit-linear-gradient(left,#3e9eff,#41c2ff);
+	background:-moz-linear-gradient(left,#3e9eff,#41c2ff);	
+	box-shadow: 0rem 0.05rem 0.05rem 0.02rem rgba(63,176,255, 0.5);
+	border:none;
+	font-family: "苹方";
+	color: #fff;
+	margin-bottom: 0.15rem;
+}
+.face{
+	display: block;
+	width: 4.8rem;
+	height: 0.78rem;
+	border-radius: 0.39rem;
+	background:-webkit-linear-gradient(left,#33d17b,#3de43e);
+	background:-moz-linear-gradient(left,#33d17b,#3de43e);
+	box-shadow: 0rem 0.05rem 0.05rem 0.02rem rgba(59,209,122, 0.5);
+	border:none;
+	font-family: "苹方";
+	color: #fff;
+}

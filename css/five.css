@@ -1,0 +1,72 @@
+@import url('base.css');
+.homepage{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: #eeeeee;
+}
+.frame{
+    display: block;
+    width: 6.06rem;
+    height: 3.84rem;
+    margin:4.2rem auto 0rem;
+    position: relative;
+}
+.frame img{
+    display: block;
+    width: 4.8rem;
+    height: 3.1rem;
+    margin:0 auto;
+}
+.color{
+    width: 1.6rem;
+    height: 1.2rem;
+    margin:0 auto;
+    top:0.22rem;
+}
+.color img{
+    display: block;
+    width: 1.62rem;
+    height: 1.18rem;
+    margin:0rem auto 0rem;
+    position: absolute;
+    top:.22rem;
+}
+.word{
+    position: absolute;
+    top:1.4rem;
+    left:1.7rem;
+    width: 3rem;
+    height: 0.26rem;
+    font-size: 0.26rem;
+    color:#979797;
+}
+.judge{
+    width: 4.12rem;
+    height: 0.46rem;
+    position: absolute;
+    top:2rem;
+    left:1rem;
+}
+.confirm{
+    width: 1.94rem;
+    height: 0.76rem;
+    border-radius: 0.38rem;
+    background:-webkit-linear-gradient(left,#34d17a,#3de33f);
+    box-shadow: 0rem 0.05rem 0.05rem 0.02rem rgba(106,220,106, 0.5);
+    border:none;
+    font-size: 0.24rem;
+    color:#fff;
+}
+.cancel{
+    width: 1.94rem;
+    height: 0.76rem;
+    border-radius: 0.38rem;
+    background:#dadada;
+    box-shadow: 0rem 0.05rem 0.05rem 0.02rem rgba(0,0,0, 0.1);
+    border:none;
+    font-size: 0.24rem;
+    color:#35d372;
+}
