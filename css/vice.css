@@ -1,0 +1,47 @@
+@import url('base.css');
+.bg{
+    display:block;
+    width: 23.6rem;
+    height: 39rem;
+}
+.word1{
+    width: 12rem;
+    height: 0.21rem;
+    text-align: center;
+    font-size: 1.3rem;
+    color:#ababab;
+    position: absolute;
+    left: 6rem;
+    top: 14.34rem;
+}
+.word2{
+    width: 14rem;
+    height: 0.24rem;
+    text-align: center;
+    font-size: 1.3rem;
+    color:#ababab;
+    position: absolute;
+    left: 5rem;
+    top: 16rem;
+}
+.vi img{
+    position: absolute;
+    width: 24.68rem;
+    height: 8.04rem;
+    right:0rem;
+    bottom:10rem;
+}
+.fr_y{
+    position: absolute;
+    left: 6rem;
+    bottom: 5.8rem;
+    display: block;
+    width: 12.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+    border:none;
+    background:-webkit-linear-gradient(left,#ffa33f,#ffcb37);
+    box-shadow: 0rem 0.05rem 0.05rem 0.02rem rgba(255,219,109, 0.5);
+    font-family:"苹方";
+	color:#fff;
+}
