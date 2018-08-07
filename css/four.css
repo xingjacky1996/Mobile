@@ -38,7 +38,7 @@
 .wa{
     width: 4.08rem;
     height: 0.26rem;
-    margin:1.07rem auto 0rem;
+    margin:1.54rem 0rem 0rem 1.51rem;
 }
 .wa img{
     display:block;
@@ -49,9 +49,9 @@
 
 }
 .fail{
-    width: 1rem;
+    width: 2rem;
     height: 0.22rem;
-    margin:0.01rem 2.73rem 0.03rem 0.15rem;
+    margin:0.01rem 2.73rem 0.03rem 0.4rem;
     font-size: 0.22rem;
     color: #ac1111;
 }
@@ -59,6 +59,7 @@
 	width: 5.64rem;
 	height: 0.45rem;
 	margin:0.2rem auto 0rem;
+	border-bottom:0.02rem solid #ac1111;
 }
 .point_y{
 	width: 0.18rem;

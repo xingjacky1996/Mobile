@@ -1,0 +1,49 @@
+@import url('base.css');
+.back img{
+    display: block;
+    width: 7.5rem;
+    height: 13.34rem;
+    position: relative;
+}
+.gr{
+    width: 0.97rem;
+    height: 0.3rem;
+    position: absolute;
+    left: 3.39rem;
+    top: 1.1rem;
+    font-family: "苹方";
+    font-size: 0.3rem;
+    color:#ffffff;
+}
+.su{
+    width: 2.48rem;
+    height: 0.22rem;
+    position: absolute;
+    left: 2.63rem;
+    top: 1.54rem;
+    font-family: "苹方";
+    font-size: 0.22rem;
+    color:#a7e8c5;
+}
+.ss img{
+    position: absolute;
+    width: 5.7rem;
+    height: 4.04rem;
+    display: block;
+    left: 1.03rem;
+    top: 1.94rem;
+}
+.word_y{
+    position: absolute;
+    left: 2.07rem;
+    bottom: 1.99rem;
+    display: block;
+    width: 3.64rem;
+    height: 0.7rem;
+    border-radius: 0.35rem;
+    border:none;
+    background:-webkit-linear-gradient(left,#ffa33f,#ffcb37);
+    box-shadow: 0rem 0.05rem 0.05rem 0.02rem rgba(255,219,109, 0.5);
+    font-family:"苹方";
+	color:#fff;
+}

@@ -37,20 +37,23 @@
 .word{
     position: absolute;
     top:1.4rem;
-    left:1.4rem;
+    left:1.8rem;
     width: 4rem;
     height: 0.26rem;
     font-size: 0.26rem;
     color:#979797;
 }
-.judge{
+.next{
     width: 4.12rem;
     height: 0.46rem;
     position: absolute;
     top:2rem;
     left:1rem;
 }
-.confirm{
+.ne{
+    position: absolute;
+    left:2rem;
+    top:2rem;
     width: 1.94rem;
     height: 0.76rem;
     border-radius: 0.38rem;
@@ -59,14 +62,4 @@
     border:none;
     font-size: 0.24rem;
     color:#fff;
-}
-.cancel{
-    width: 1.94rem;
-    height: 0.76rem;
-    border-radius: 0.38rem;
-    background:#dadada;
-    box-shadow: 0rem 0.05rem 0.05rem 0.02rem rgba(0,0,0, 0.1);
-    border:none;
-    font-size: 0.24rem;
-    color:#35d372;
 }

@@ -1,0 +1,15 @@
+@import url('base.css');
+.di img{
+    display:block;
+    width: 3.95rem;
+    height: 5.12rem;
+    margin:2.54rem auto 0rem;
+}
+.tiword{
+    width: 1.84rem;
+    height: 0.3rem;
+    font-family:"苹方";
+    font-size: 0.3rem;
+    color:#a0a0a0;
+    margin:3.3rem auto 0rem;
+}
